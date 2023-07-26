@@ -3636,8 +3636,23 @@
     },
     {
       "fullPath": "presets/4.4/bnf/aos35.txt",
-      "hash": "bb4ddd84dfd66ce2da884b236f7a8a772d83f4be75e6b13feede1968a3df9463",
+      "hash": "d3157e677dc60d971341827dcd0f38004f184e9c31047dba3092ef83fd3d399d",
       "title": "Custom Fabi - AOS 3.5 v2",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fabi"
+      ],
+      "author": "Fabian Eschle",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/bnf/iflight_titan_h3.txt",
+      "hash": "9f40bab693188149b8a92cc24cda4c43c774c517bb209e80cd8b48b835713f6e",
+      "title": "Custom Fabi - iFlight Titan H3",
       "firmware_version": [
         "4.4"
       ],
@@ -3742,7 +3757,7 @@
     },
     {
       "fullPath": "presets/4.4/other/fabiOther.txt",
-      "hash": "18453e6f07bfc31fa505f863605894041362439ca76e5444ab325fbb5cd5381e",
+      "hash": "82b202850a63905a024047611ee40240488d8efb595726b440d964660b67a604",
       "title": "Defaults Fabi - apply without risk",
       "firmware_version": [
         "4.4"

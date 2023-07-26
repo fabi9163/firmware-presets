@@ -21,6 +21,11 @@ set align_mag = CW90FLIP
 set mag_align_pitch = 1800
 set mag_align_yaw = 900
 
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT600
+set motor_poles = 12
+
+
 set craft_name = AOS35
 
 
