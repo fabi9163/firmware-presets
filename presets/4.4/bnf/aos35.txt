@@ -1,0 +1,27 @@
+#$ TITLE: Fabi custom - AOS 3.5 v2
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: BNF
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: fabi
+#$ AUTHOR: Fabian Eschle
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Fabi custom - AOS 3.5 v2
+
+# -- Start Fabi --
+
+# serial
+serial 1 2 115200 115200 0 115200
+serial 2 131073 115200 57600 0 115200
+serial 5 1024 115200 57600 0 115200
+
+# master
+set align_mag = CW90FLIP
+set mag_align_pitch = 1800
+set mag_align_yaw = 900
+
+set craft_name = AOS35
+
+
+# -- End Fabi --

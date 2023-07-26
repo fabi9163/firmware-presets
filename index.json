@@ -140,6 +140,7 @@
       "4.5"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "LEDS",
       "MODES",
@@ -3633,6 +3634,21 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/bnf/aos35.txt",
+      "hash": "ef420b3bfeac0505d65d180f9b4428e837e35df8ac1fb09e6780cee5391372b2",
+      "title": "Fabi custom - AOS 3.5 v2",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fabi"
+      ],
+      "author": "Fabian Eschle",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
       "hash": "2b2bede40d142402b6c9c3b0bdeb996c0b2215761aab4e787eee8188118521b7",
       "title": "Quaddiction TinyTrainer LED settings",
@@ -3691,8 +3707,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/OsdFabi.txt",
-      "hash": "0b092234341fa7266e99a141d994db13a36ed91872154a055c93029792ac11b1",
-      "title": "Fabis - DJI HD OSD",
+      "hash": "6dedbeed46ba876a9d3632ab82e89c81673759d76bdd81606df132fc6b7fade0",
+      "title": "OSD Fabi - DJI HD",
       "firmware_version": [
         "4.4"
       ],
@@ -3721,6 +3737,21 @@
         "HDOSD"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/fabiOther.txt",
+      "hash": "cc1e3c4575ff9dbfb2880a6073c3aa1d311b5707823aee5885572427a50b71ab",
+      "title": "Fabi defaults - apply without risk",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fabi"
+      ],
+      "author": "Fabian Eschle",
       "priority": 0
     },
     {

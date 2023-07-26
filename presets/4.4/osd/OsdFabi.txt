@@ -1,4 +1,4 @@
-#$ TITLE: Fabis - DJI HD OSD
+#$ TITLE: OSD Fabi - DJI HD
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
@@ -56,4 +56,5 @@ set osd_log_status_pos = 3181
 set osd_rate_profile_name_pos = 2595
 set osd_pid_profile_name_pos = 25
 set osd_efficiency_pos = 160
+
 # -- End Fabi --
