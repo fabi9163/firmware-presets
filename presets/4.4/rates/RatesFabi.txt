@@ -2,16 +2,17 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
-#$ STATUS: EXPERIMENTAL
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: rates
 #$ AUTHOR: Fabian Eschle
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: QuadMcFly Snappy Freestyle Rates
+#$ DESCRIPTION: Fabis Freestyle Rates
 
 #$ WARNING: Rates will overwrite the currently selected rate profile 
 
+#$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = ACTUAL
 set rateprofile_name = fabi
