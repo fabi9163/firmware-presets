@@ -162,6 +162,7 @@
       "Davide FPV (Davide Angeletti)",
       "Directory",
       "Evan Turner (Headsup)",
+      "Fabian Eschle",
       "Feisar",
       "Foxeer Harvey",
       "FPVian",
@@ -3809,6 +3810,22 @@
         "sbang"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/RatesFabi.txt",
+      "hash": "e0ec9a9ad58cfabf61f3b7f07cc6c092198d6862f2f175890ad5bf3639b90388",
+      "title": "Rates Fabi - Freestyle",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates"
+      ],
+      "author": "Fabian Eschle",
       "priority": 10000
     },
     {
