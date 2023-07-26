@@ -312,6 +312,7 @@
       "filtering",
       "filters",
       "five33",
+      "fly89",
       "Foxeer",
       "fport",
       "fpv.wtf",
@@ -3685,6 +3686,23 @@
         "tiny"
       ],
       "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/modes/fly89_Modes.txt",
+      "hash": "698c25caf2b66408c211ddd4754c63c21a55810a3c17cbcb5ec19d8e6ffcbb69",
+      "title": "Modes fly89",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fly89",
+        "modes"
+      ],
+      "author": "fly89",
       "priority": 0
     },
     {
