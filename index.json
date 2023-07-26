@@ -3708,7 +3708,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/OsdFabi.txt",
-      "hash": "6dedbeed46ba876a9d3632ab82e89c81673759d76bdd81606df132fc6b7fade0",
+      "hash": "74ce38c669a50197d05ba652e078d9960f107f619f59c7330e0c929cedcc0744",
       "title": "OSD Fabi - DJI HD",
       "firmware_version": [
         "4.4"
@@ -3742,7 +3742,7 @@
     },
     {
       "fullPath": "presets/4.4/other/fabiOther.txt",
-      "hash": "059e33faf106ff7af03777d5ecf80c65d575f5e1a90bff135a8f790c7fbf8ebd",
+      "hash": "18453e6f07bfc31fa505f863605894041362439ca76e5444ab325fbb5cd5381e",
       "title": "Defaults Fabi - apply without risk",
       "firmware_version": [
         "4.4"
