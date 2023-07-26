@@ -7,8 +7,12 @@
 #$ AUTHOR: Fabian Eschle
 #$ DESCRIPTION: Fabis Modes
 
-#$ INCLUDE: presets/4.3/modes/defaults.txt
 
+# -- Start Defaults --
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+# -- End Defaults --
+
+# -- Start Fabi --
 aux 0 0 0 1700 2100 0 0
 aux 1 1 2 1300 1700 0 0
 aux 2 27 3 1700 2100 0 0
@@ -20,3 +24,4 @@ aux 7 28 6 900 1500 0 0
 aux 8 31 7 1300 1500 0 0
 aux 9 35 4 1700 2100 0 0
 aux 10 36 6 1700 2100 0 0
+# -- End Fabi --

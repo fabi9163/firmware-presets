@@ -12,8 +12,11 @@
 
 #$ WARNING: Rates will overwrite the currently selected rate profile 
 
+# -- Start Defaults --
 #$ INCLUDE: presets/4.3/rates/defaults.txt
+# -- End Defaults --
 
+# -- Start Fabi --
 set rates_type = ACTUAL
 set rateprofile_name = fabi
 set roll_rc_rate = 12
@@ -25,3 +28,4 @@ set yaw_expo = 30
 set roll_srate = 66
 set pitch_srate = 66
 set yaw_srate = 66
+# -- End Fabi --

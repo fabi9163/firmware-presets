@@ -1,0 +1,59 @@
+#$ TITLE: Fabis - DJI HD OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: DJI, HD, fabi
+#$ AUTHOR: Fabian Eschle
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Fabis HD OSD Settings
+
+# -- Start Defaults --
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+# -- End Defaults --
+
+# -- Start Fabi --
+set vcd_video_system = HD
+set osd_displayport_device = MSP
+
+set osd_cap_alarm = 800
+set osd_gps_sats_show_hdop = ON
+
+set osd_link_quality_alarm = 50
+set osd_rssi_dbm_alarm = -90
+set osd_rsnr_alarm = 1
+
+set osd_rssi_pos = 409
+set osd_link_quality_pos = 2339
+set osd_link_tx_power_pos = 408
+set osd_rssi_dbm_pos = 2404
+set osd_rsnr_pos = 2437
+set osd_tim_1_pos = 3078
+set osd_flymode_pos = 2500
+set osd_throttle_pos = 3149
+set osd_current_pos = 3372
+set osd_mah_drawn_pos = 3340
+set osd_craft_name_pos = 2627
+set osd_gps_speed_pos = 2244
+set osd_gps_lon_pos = 49184
+set osd_gps_lat_pos = 51200
+set osd_gps_sats_pos = 2084
+set osd_home_dir_pos = 2071
+set osd_home_dist_pos = 2180
+set osd_flight_dist_pos = 2148
+set osd_compass_bar_pos = 2075
+set osd_altitude_pos = 18596
+set osd_pidrate_profile_pos = 2533
+set osd_warnings_pos = 14677
+set osd_avg_cell_voltage_pos = 2307
+set osd_battery_usage_pos = 33379
+set osd_disarmed_pos = 2326
+set osd_esc_tmp_pos = 88
+set osd_flip_arrow_pos = 2361
+set osd_core_temp_pos = 3085
+set osd_log_status_pos = 3181
+set osd_rate_profile_name_pos = 2595
+set osd_pid_profile_name_pos = 25
+set osd_efficiency_pos = 160
+# -- End Fabi --

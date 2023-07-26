@@ -3657,7 +3657,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/ModesFabi.txt",
-      "hash": "2a81883bbc618c75a6e397d7e4ea675003f4ddc6c726f9b1e5928bf0f79a2d9c",
+      "hash": "b432c415229658f81e0164e0472793d5f47cdaded4b0d4db61655fc0957f020f",
       "title": "Modes Fabi",
       "firmware_version": [
         "4.3",
@@ -3687,6 +3687,23 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/OsdFabi.txt",
+      "hash": "0b092234341fa7266e99a141d994db13a36ed91872154a055c93029792ac11b1",
+      "title": "Fabis - DJI HD OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DJI",
+        "HD",
+        "fabi"
+      ],
+      "author": "Fabian Eschle",
       "priority": 0
     },
     {
@@ -3832,7 +3849,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/RatesFabi.txt",
-      "hash": "ba55f82938db3d482df14457a753e9046c7780dcfbe37d1310e9f47bc8afa5b4",
+      "hash": "4e0df91b13e592f1fbae4a8c87e2abaf1415d28467d24b146bf401e9d030502e",
       "title": "Rates Fabi - Freestyle",
       "firmware_version": [
         "4.3",
