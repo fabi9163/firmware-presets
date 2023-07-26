@@ -165,6 +165,7 @@
       "Evan Turner (Headsup)",
       "Fabian Eschle",
       "Feisar",
+      "fly89",
       "Foxeer Harvey",
       "FPVian",
       "Garban",
@@ -3856,6 +3857,22 @@
         "cinematic"
       ],
       "author": "Davide FPV (Davide Angeletti)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/fly89_Rates.txt",
+      "hash": "5b5c49e480e5e196dfa19378bc46835c0051cbb8cf297b258bfd25b6307a5ee2",
+      "title": "fly89 Rates - Freestyle",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates"
+      ],
+      "author": "fly89",
       "priority": 10000
     },
     {
