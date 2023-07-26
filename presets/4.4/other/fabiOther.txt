@@ -1,4 +1,4 @@
-#$ TITLE: Fabi defaults - apply without risk
+#$ TITLE: Defaults Fabi - apply without risk
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY

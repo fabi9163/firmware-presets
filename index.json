@@ -3635,8 +3635,8 @@
     },
     {
       "fullPath": "presets/4.4/bnf/aos35.txt",
-      "hash": "ef420b3bfeac0505d65d180f9b4428e837e35df8ac1fb09e6780cee5391372b2",
-      "title": "Fabi custom - AOS 3.5 v2",
+      "hash": "bb4ddd84dfd66ce2da884b236f7a8a772d83f4be75e6b13feede1968a3df9463",
+      "title": "Custom Fabi - AOS 3.5 v2",
       "firmware_version": [
         "4.4"
       ],
@@ -3741,8 +3741,8 @@
     },
     {
       "fullPath": "presets/4.4/other/fabiOther.txt",
-      "hash": "cc1e3c4575ff9dbfb2880a6073c3aa1d311b5707823aee5885572427a50b71ab",
-      "title": "Fabi defaults - apply without risk",
+      "hash": "059e33faf106ff7af03777d5ecf80c65d575f5e1a90bff135a8f790c7fbf8ebd",
+      "title": "Defaults Fabi - apply without risk",
       "firmware_version": [
         "4.4"
       ],
