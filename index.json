@@ -3636,7 +3636,7 @@
     },
     {
       "fullPath": "presets/4.4/bnf/aos35.txt",
-      "hash": "d3157e677dc60d971341827dcd0f38004f184e9c31047dba3092ef83fd3d399d",
+      "hash": "4e3b066e1a674e37cfa899aa716c913ce232270d8a2b932a418c849df64280fc",
       "title": "Custom Fabi - AOS 3.5 v2",
       "firmware_version": [
         "4.4"
