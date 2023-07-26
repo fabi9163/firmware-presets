@@ -6,10 +6,6 @@
 #$ KEYWORDS: fabi, modes
 #$ AUTHOR: Fabian Eschle
 #$ DESCRIPTION: Fabis Modes
-#$ DESCRIPTION:
-#$ DESCRIPTION: Information:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: -----------
 
 #$ INCLUDE: presets/4.3/modes/defaults.txt
 
