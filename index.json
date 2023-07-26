@@ -3651,7 +3651,7 @@
     },
     {
       "fullPath": "presets/4.4/bnf/iflight_titan_h3.txt",
-      "hash": "9f40bab693188149b8a92cc24cda4c43c774c517bb209e80cd8b48b835713f6e",
+      "hash": "63d3d557abdb5bdc87bdacc02ed4545cc25373af60b32107eb351c393c27bdca",
       "title": "Custom Fabi - iFlight Titan H3",
       "firmware_version": [
         "4.4"
@@ -3757,7 +3757,7 @@
     },
     {
       "fullPath": "presets/4.4/other/fabiOther.txt",
-      "hash": "82b202850a63905a024047611ee40240488d8efb595726b440d964660b67a604",
+      "hash": "e116f172e70856ca8f6e8335b81d71857a7e17a0d11e5851519fe433618d3f46",
       "title": "Defaults Fabi - apply without risk",
       "firmware_version": [
         "4.4"
@@ -3912,7 +3912,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/RatesFabi.txt",
-      "hash": "4e0df91b13e592f1fbae4a8c87e2abaf1415d28467d24b146bf401e9d030502e",
+      "hash": "e42997ea317a15665f73ef9d4822c3ec5279c46c972a4da4dc460abe93d74bdb",
       "title": "Rates Fabi - Freestyle",
       "firmware_version": [
         "4.3",

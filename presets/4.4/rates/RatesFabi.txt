@@ -10,8 +10,6 @@
 
 #$ DESCRIPTION: Fabis Freestyle Rates
 
-#$ WARNING: Rates will overwrite the currently selected rate profile 
-
 # -- Start Defaults --
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 # -- End Defaults --

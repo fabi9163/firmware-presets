@@ -33,9 +33,6 @@ beacon RX_SET
 set min_check = 1005
 set max_check = 1995
 
-set dshot_bidir = ON
-set motor_pwm_protocol = DSHOT600
-
 set bat_capacity = 800
 
 set yaw_motors_reversed = ON
