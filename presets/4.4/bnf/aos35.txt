@@ -28,5 +28,4 @@ set motor_poles = 12
 
 set craft_name = AOS35
 
-
 # -- End Fabi --
