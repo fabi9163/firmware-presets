@@ -1,0 +1,27 @@
+#$ TITLE: Modes fly89
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: fly89, modes
+#$ AUTHOR: fly89
+#$ DESCRIPTION: fly89 Modes
+
+
+# -- Start Defaults --
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+# -- End Defaults --
+
+# -- Start fly89 --
+aux 0 0 0 1700 2100 0 0
+aux 1 1 2 1300 1700 0 0
+aux 2 27 3 1700 2100 0 0
+aux 3 46 2 1700 2100 0 0
+aux 4 13 1 1700 2100 0 0
+aux 5 19 4 1300 1700 0 0
+aux 6 26 7 1100 1300 0 0
+aux 7 28 6 900 1500 0 0
+aux 8 31 7 1300 1500 0 0
+aux 9 35 4 1700 2100 0 0
+aux 10 36 6 1700 2100 0 0
+# -- End fly89 --
